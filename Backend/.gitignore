@@ -1,0 +1,9 @@
+# secrets and environments
+.env
+.venv/
+venv/
+__pycache__/
+node_modules/
+
+# datasets (download links go in README; uncomment to keep CSVs out of git)
+# Backend/pipeline/data/*.csv

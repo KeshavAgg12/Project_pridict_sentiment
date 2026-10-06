@@ -1,0 +1,12 @@
+@theme {
+  --color-page: #eef0e6;
+  --color-panel: #fbfbf7;
+  --color-ink: #12372a;
+  --color-line: #d3d9c8;
+  --color-lemon: #e8e46a;
+  --color-orange: #e4572e;
+  --color-teal: #0f8b8d;
+  --color-neu: #aab4aa;
+  --font-head: Bahnschrift, "Arial Narrow", "Segoe UI", sans-serif;
+  --font-num: Consolas, "Cascadia Mono", monospace;
+}
